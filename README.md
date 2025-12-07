@@ -7,3 +7,5 @@ This is the repository of the activity III.
 - Added the basic structure to the html file.
 page
 - Added footer and header.
+- Added images for content section.
+- Added content and menu.

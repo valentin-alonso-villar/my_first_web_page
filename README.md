@@ -4,5 +4,6 @@ This is the repository of the activity III.
 
 ## Actions
 
-Added the basic structure to the html file.
+- Added the basic structure to the html file.
 page
+- Added footer and header.
